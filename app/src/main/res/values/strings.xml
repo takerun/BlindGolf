@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BlindGolf</string>
+    <string name="Object_direction">0</string>
+    <string name="Actual_direction">................</string>
+    <string name="MatchText">NO</string>
+
+    <string name="button">Button</string>
+    <string name="description">camera picture</string>
+
+</resources>
